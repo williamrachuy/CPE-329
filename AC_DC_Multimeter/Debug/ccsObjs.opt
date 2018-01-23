@@ -1,0 +1,1 @@
+"./ac_mode.obj" "./adc14.obj" "./clock.obj" "./dac.obj" "./dc_mode.obj" "./frequency.obj" "./gui.obj" "./main.obj" "./startup_msp432p401r_ccs.obj" "./system_msp432p401r.obj" "./usci.obj" "./vt100.obj" "../msp432p401r.cmd" -llibc.a 
